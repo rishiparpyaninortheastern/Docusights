@@ -1,0 +1,9 @@
+
+numpy
+faiss-cpu
+requests
+fastapi
+pydantic
+azure-core
+azure-ai-formrecognizer
+azure-ai-documentintelligence
