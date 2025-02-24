@@ -10,7 +10,7 @@ build/
 
 # Ignore environment variables
 .env
-
+os.env
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
